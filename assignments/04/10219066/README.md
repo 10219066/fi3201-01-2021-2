@@ -87,6 +87,7 @@ y = np.sin(np.pi*x-np.pi*i)
 ```
 dan hasil berkas gifnya adalah \
 ![gif file from simulation wave to right]()
+![KANAN](https://user-images.githubusercontent.com/97931212/161537917-8781d7c2-4baf-494b-9d5e-9e4b3e80b1ab.gif)
 
 
 ## question 3
@@ -99,6 +100,7 @@ y = np.sin(np.pi*x+np.pi*i)
 ```
 dan hasil berkas gifnya adalah \
 ![gif file from simulation wave to left]()
+![kiri](https://user-images.githubusercontent.com/97931212/161538417-b4c37834-dc05-4f0d-b55d-9e33de2a0d4f.gif)
 
 
 ## question 4
@@ -111,3 +113,4 @@ y = np.sin(np.pi*x)*np.cos(np.pi*i)
 ```
 dan hasil berkas gifnya adalah \
 ![gif file from simulation wave stationary]()
+![basic_animation](https://user-images.githubusercontent.com/97931212/161538789-16661f5a-3a85-41ab-8101-2e50c3f0c9c4.gif)
