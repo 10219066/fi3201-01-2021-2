@@ -13,4 +13,4 @@ Email : [mrshndtianasarjito@gmail.com](mrshndtianasarjito@gmail.com)
 
 Link Github : [MarshandaTiana](https://github.com/MarshandaTiana)
 
-Tautan ke berkas Notebook Python saya adalah (BELUM) [assignment 5]().
+Tautan ke berkas Notebook Python saya adalah [assignment 5](https://github.com/MarshandaTiana/fi3201-01-2021-2/blob/main/assignments/05/10219066/Assignment%205%20fiskommm.ipynb).
